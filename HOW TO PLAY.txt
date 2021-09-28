@@ -1,0 +1,21 @@
+It's a multiplayer offline game which can be playalbe by only two persons.
+1st Person belongs to TEAM 1 - YELLOW
+2nd Person belongs to TEAM 2 - RED 
+Spaceships will be given to the respective teams that can fire bullets.
+Maximum of 3 bullets can FIRE at a time 
+Infinite bullets are given to the Spaceship.
+Max Health is 10 for both the Teams. 
+If a one Team  hits the other Team, Health is gonna be reduced by 1.
+One who reduces the opponent team to 0 Health that Team will be consider as a WINNER.
+TEAM 1 = YELLOW MOVEMENTS
+   w - UP
+   s - DOWN
+   a - LEFT
+   d - RIGHT
+   left control(LCRTL) - FIRE bullets
+TEAM 2 - RED MOVEMENTS
+  arrowkey up - UP
+  arrowkey down - DOWN
+  arrowkey left - LEFT
+  arrowkey right - RIGHT
+  right control(RCRTL) - FIRE bullets
